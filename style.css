@@ -1,0 +1,187 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+body {
+    margin: 0px;
+    width: 3840px;
+    height: 2400px;
+    border: 5px solid gray;
+    /* background-image: url("/images/background_small.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/q2151kdhb49jb9k/background_small.jpg?dl=0"); 
+    background-repeat: repeat;
+}
+
+.section1 {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+
+.img1 {
+    /* background-image: url("/images/hipHop1.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/cdbr50v0st47ja7/hipHop1.jpg?dl=0"); 
+    height: 750px;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img2 {
+    /* background-image: url("/images/hipHop2.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/kcxf7kzr33ggxoe/hipHop2.jpg?dl=0"); 
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img3 {
+    /* background-image: url("/images/hipHop3.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/4gj9b1hsxh52vyf/hipHop3.jpg?dl=0");
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img4 {
+    /* background-image: url("/images/hipHop4.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/7re8yh8x5m9lvud/hipHop4.jpg?dl=0");
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img5 {
+    /* background-image: url("/images/hipHop5.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/ogsjspqwzvwo5on/hipHop5.jpg?dl=0");
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img6 {
+    /* background-image: url("/images/hipHop6.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/9a97mnp8fqfgmvn/hipHop6.jpg?dl=0");
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img7 {
+    /* background-image: url("/images/hipHop7.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/zcr9z907txyuwnf/hipHop7.jpg?dl=0");
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img8 {
+    /* background-image: url("/images/hipHop8.jpg"); */
+    /* background-image: url("https://dl.dropboxusercontent.com/s/3orjsfrayp6p7z5/hipHop8.jpg?dl=0"); */
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img9 {
+    /* background-image: url("/images/hipHop9.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/se1icctk61kl9wh/hipHop9.jpg?dl=0");
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img10 {
+    /* background-image: url("/images/hipHop10.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/yvp4e4z60w0zpsv/hipHop10.jpg?dl=0");
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img11 {
+    /* background-image: url("/images/hipHop11.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/aysbgrzhvpdzj4w/hipHop11.jpg?dl=0");
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img12 {
+    /* background-image: url("/images/hipHop12.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/u5763yvd578ds8w/hipHop12.jpg?dl=0");
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img13 {
+    /* background-image: url("/images/hipHop13.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/71d55rufx9k3z5x/hipHop13.jpg?dl=0");
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img14 {
+    /* background-image: url("/images/hipHop14.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/wxck4c1by4zqkfu/hipHop14.jpg?dl=0");
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.img15 {
+    /* background-image: url("/images/hipHop15.jpg"); */
+    background-image: url("https://dl.dropboxusercontent.com/s/2xq06blvhk3u7cg/hipHop15.jpg?dl=0");
+    height: 100%;
+    width: 1fr;
+    margin: 10px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
